@@ -1,0 +1,17 @@
+def calculate(operation, first, second):
+	first = int("Enter First number: ")
+	second = int("Enter Second number: ")
+	operation = input("Type operation you want to perform: Add, Subtract, Multiply, Divide ")
+	operand = operation.lower()
+	
+	result = 0
+	if operand = 'add':
+		result = first + second
+	elif operand = 'subtract'
+		result = first - second
+	elif operand = 'multiply'
+		result = first * second
+	elif operand = 'divide'
+		result = first/second
+
+	return result

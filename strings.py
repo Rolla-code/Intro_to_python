@@ -1,3 +1,3 @@
-print("abc" + "def")
+print("abc" + "defgh")
 print("hello" + " " + "world")
-print("123" + "5")
+print("123" + "45")
